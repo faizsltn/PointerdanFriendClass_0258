@@ -23,3 +23,11 @@ class PersegiPanjang
 
     Lingkaran ol;
 };
+
+class Lingkaran
+{
+    public:
+    int jari-jari;
+
+    
+}
